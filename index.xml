@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <owner>stolbitsa</owner>
+  <repo>merry-christmas-kids-5</repo>
+  <version>v1.0.0</version>
+  <next number="1" owner="stolbitsa" repo="merry-christmas-kids"/>
+  <readme>
+    <ru>6e6aa68fdb9cdad36ec767444ce5ff806936c10b6aef210620dede44d80d3850</ru>
+    <en>c3efc2747d67866d7646f21e3b935754f9ba82ea2ad51902f7f9353db77b2060</en>
+  </readme>
+  <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
+  <exercise number="1">
+    <scale>major</scale>
+    <bpm>145</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="20-kids-tv-mer-xmas-5_1.mp4" size="2888801" type="video/mp4" volume="0.595">7afac2f0421d6d7b3e42b29a48ff6e57f8dd4ee4e22fb1b01dd698de4440ea7a</video>
+    <notes>
+      <note number="1" values="5" ticks="78" durationTicks="86" ppq="96" velocity="0.843"/>
+      <note number="2" values="18" ticks="173" durationTicks="73" ppq="96" velocity="0.739"/>
+      <note number="3" values="18" ticks="270" durationTicks="45" ppq="96" velocity="0.719"/>
+      <note number="4" values="28" ticks="318" durationTicks="40" ppq="96" velocity="0.719"/>
+      <note number="5" values="18" ticks="367" durationTicks="41" ppq="96" velocity="0.719"/>
+      <note number="6" values="7" ticks="415" durationTicks="37" ppq="96" velocity="0.719"/>
+      <note number="7" values="6" ticks="464" durationTicks="78" ppq="96" velocity="0.719"/>
+      <note number="8" values="6" ticks="558" durationTicks="95" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="2">
+    <scale>major</scale>
+    <bpm>145</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="20-kids-tv-mer-xmas-5_2.mp4" size="2929125" type="video/mp4" volume="0.585">3ac5ee94d0b6d2dd8b94726a6c0f9da1c809c58a259573adcbfb3d59ec3c06bf</video>
+    <notes>
+      <note number="1" values="6" ticks="104" durationTicks="86" ppq="96" velocity="0.843"/>
+      <note number="2" values="28" ticks="199" durationTicks="77" ppq="96" velocity="0.739"/>
+      <note number="3" values="28" ticks="296" durationTicks="45" ppq="96" velocity="0.719"/>
+      <note number="4" values="38" ticks="346" durationTicks="41" ppq="96" velocity="0.737"/>
+      <note number="5" values="28" ticks="391" durationTicks="45" ppq="96" velocity="0.719"/>
+      <note number="6" values="18" ticks="438" durationTicks="46" ppq="96" velocity="0.719"/>
+      <note number="7" values="7" ticks="490" durationTicks="95" ppq="96" velocity="0.719"/>
+      <note number="8" values="5" ticks="584" durationTicks="95" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="3">
+    <scale>major</scale>
+    <bpm>145</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="20-kids-tv-mer-xmas-5_3.mp4" size="2307085" type="video/mp4" volume="0.545">43d4c19a38b26f380a158977c88ca3f8ae8a650dcd536aebd6477a0657e36954</video>
+    <notes>
+      <note number="1" values="5" ticks="96" durationTicks="86" ppq="96" velocity="0.843"/>
+      <note number="2" values="38" ticks="191" durationTicks="77" ppq="96" velocity="0.739"/>
+      <note number="3" values="38" ticks="288" durationTicks="48" ppq="96" velocity="0.719"/>
+      <note number="4" values="48" ticks="336" durationTicks="45" ppq="96" velocity="0.719"/>
+      <note number="5" values="38" ticks="386" durationTicks="46" ppq="96" velocity="0.719"/>
+      <note number="6" values="28" ticks="432" durationTicks="45" ppq="96" velocity="0.719"/>
+      <note number="7" values="18" ticks="482" durationTicks="95" ppq="96" velocity="0.719"/>
+      <note number="8" values="6" ticks="576" durationTicks="95" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="4">
+    <scale>major</scale>
+    <bpm>145</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="20-kids-tv-mer-xmas-5_4.mp4" size="2816434" type="video/mp4" volume="0.553">978988195bb8dac5313c679ad2914e8f0d42512c0ce58fc9c31232dcaa599b79</video>
+    <notes>
+      <note number="1" values="5" ticks="105" durationTicks="93" ppq="96" velocity="0.843"/>
+      <note number="2" values="6" ticks="201" durationTicks="98" ppq="96" velocity="0.739"/>
+      <note number="3" values="28" ticks="298" durationTicks="95" ppq="96" velocity="0.719"/>
+      <note number="4" values="7" ticks="394" durationTicks="93" ppq="96" velocity="0.719"/>
+      <note number="5" values="18" ticks="489" durationTicks="96" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="5">
+    <scale>major</scale>
+    <bpm>145</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="20-kids-tv-mer-xmas-5_5.mp4" size="2914183" type="video/mp4" volume="0.57">82f6bcbf9fa13c38cd4087b078b813354247e60a24b7fff8be86d2164aadbf35</video>
+    <notes>
+      <note number="1" values="5" ticks="98" durationTicks="86" ppq="96" velocity="0.843"/>
+      <note number="2" values="18" ticks="193" durationTicks="80" ppq="96" velocity="0.732"/>
+      <note number="3" values="18" ticks="290" durationTicks="75" ppq="96" velocity="0.717"/>
+      <note number="4" values="18" ticks="385" durationTicks="84" ppq="96" velocity="0.717"/>
+      <note number="5" values="7" ticks="483" durationTicks="91" ppq="96" velocity="0.717"/>
+    </notes>
+  </exercise>
+  <exercise number="6">
+    <scale>major</scale>
+    <bpm>145</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="20-kids-tv-mer-xmas-5_6.mp4" size="2811744" type="video/mp4" volume="0.541">d0abb1de4fb7f7822130e26ac0d44e81d8d88a885017fa0064ffadd7ff540ab4</video>
+    <notes>
+      <note number="1" values="7" ticks="96" durationTicks="86" ppq="96" velocity="0.843"/>
+      <note number="2" values="18" ticks="191" durationTicks="79" ppq="96" velocity="0.732"/>
+      <note number="3" values="7" ticks="288" durationTicks="90" ppq="96" velocity="0.717"/>
+      <note number="4" values="6" ticks="384" durationTicks="93" ppq="96" velocity="0.732"/>
+      <note number="5" values="5" ticks="481" durationTicks="93" ppq="96" velocity="0.717"/>
+    </notes>
+  </exercise>
+  <exercise number="7">
+    <scale>major</scale>
+    <bpm>145</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="20-kids-tv-mer-xmas-5_7.mp4" size="2785542" type="video/mp4" volume="0.56">e877940b3ab62b2e305d758560d42e71d4128f860ccfcad1cbd03929b3ba495f</video>
+    <notes>
+      <note number="1" values="28" ticks="88" durationTicks="86" ppq="96" velocity="0.843"/>
+      <note number="2" values="38" ticks="183" durationTicks="74" ppq="96" velocity="0.732"/>
+      <note number="3" values="38" ticks="280" durationTicks="37" ppq="96" velocity="0.717"/>
+      <note number="4" values="28" ticks="329" durationTicks="31" ppq="96" velocity="0.717"/>
+      <note number="5" values="18" ticks="378" durationTicks="44" ppq="96" velocity="0.717"/>
+      <note number="6" values="28" ticks="425" durationTicks="38" ppq="96" velocity="0.717"/>
+      <note number="7" values="58" ticks="474" durationTicks="95" ppq="96" velocity="0.717"/>
+      <note number="8" values="5" ticks="568" durationTicks="95" ppq="96" velocity="0.717"/>
+    </notes>
+  </exercise>
+  <exercise number="8">
+    <scale>major</scale>
+    <bpm>145</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="20-kids-tv-mer-xmas-5_8.mp4" size="2612327" type="video/mp4" volume="0.551">6ba9ff4d231bd4882b51caec0a45ca89b9e92f342b29d031938b8a49cb367a0a</video>
+    <notes>
+      <note number="1" values="5" ticks="71" durationTicks="44" ppq="96" velocity="0.843"/>
+      <note number="2" values="5" ticks="134" durationTicks="34" ppq="96" velocity="0.732"/>
+      <note number="3" values="6" ticks="169" durationTicks="95" ppq="96" velocity="0.717"/>
+      <note number="4" values="28" ticks="266" durationTicks="93" ppq="96" velocity="0.717"/>
+      <note number="5" values="7" ticks="362" durationTicks="96" ppq="96" velocity="0.717"/>
+      <note number="6" values="18" ticks="457" durationTicks="120" ppq="96" velocity="0.717"/>
+    </notes>
+  </exercise>
+</level>
